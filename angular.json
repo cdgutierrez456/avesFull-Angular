@@ -27,6 +27,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootswatch/dist/vapor/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
